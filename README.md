@@ -1,5 +1,5 @@
-# Goldsmith_Maia_DA301_Turtle_games
-## Data Analytics Career Accelerator Assignment 3 files
+# Analysing customer trends to improve sales
+## Data Analytics Career Accelerator Assignment 3
 
 ### Analysis - After completing an exploratory data analysis I applied the following techniques
 
